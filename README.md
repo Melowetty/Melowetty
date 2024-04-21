@@ -10,7 +10,16 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java and Spring Microservices<br>🏫 I'm currently studying in HSE Perm University at 2 course<br>🎯 Goals: created telegram bot, which used by more than 100 students everyday</p>
+🔭 I’m currently working on [Backend of HSE Perm Helper](https://github.com/HSE-Perm-Helper/main-backend)<br>
+✨ Creating bugs since 2021<br>
+📚 I'm currently learning Java and Spring Microservices<br>
+🏫 I'm currently studying at HSE Perm University at 2 course<br>
+🎯 Goals: created telegram bot, which is used by more than 100 students everyday<br>
+
+📫 How to reach me **melowetty@mail.ru**
+
+
+<p align="left"></p>
 
 ###
 
