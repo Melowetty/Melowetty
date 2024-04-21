@@ -18,6 +18,7 @@
 
 📫 How to reach me **melowetty@mail.ru**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=melowetty&label=Profile%20views&color=0e75b6&style=flat" alt="melowetty" /> </p>
 
 <p align="left"></p>
 
