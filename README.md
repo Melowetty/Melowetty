@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Denis and I'm a Java Developer, from Perm, Russia</p>
+<p align="left">My name is Denis and I'm a Java/Kotlin Developer from Perm, Russia</p>
 
 ###
 
