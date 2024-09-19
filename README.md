@@ -14,7 +14,7 @@
 ✨ Creating bugs since 2021<br>
 📚 I'm currently learning Java and Spring Microservices<br>
 🏫 I'm currently studying at HSE Perm University at 3 course<br>
-🎯 Goals: created telegram bot, which is used by more than 500 students everyday<br>
+🎯 Goals: created telegram bot, which is used by more than 700 students everyday<br>
 
 📫 How to reach me **melowetty@mail.ru**
 
