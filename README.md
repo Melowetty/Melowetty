@@ -14,7 +14,7 @@
 ✨ Creating bugs since 2022<br>
 📚 I'm currently learning at Java Fintech course by T-bank<br>
 🏫 I'm currently studying at HSE Perm University at 3 course<br>
-🎯 Goals: created microservices for [telegram bot](https://t.me/hse_perm_helper_bot), which much improved process of personal schedule checking and it used by more than 800 HSE Perm students everyday<br>
+🎯 Goals: created microservices for [telegram bot](https://t.me/hse_perm_helper_bot), which much improved process of personal schedule checking and it used by more than 900 HSE Perm students everyday<br>
 
 📫 How to reach me **melowetty@mail.ru**
 
