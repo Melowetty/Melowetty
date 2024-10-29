@@ -60,4 +60,4 @@
 <h2 align="left">LeetCode Stats</h2>
 
 ###
-<div align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=melowetty&theme=dark"/></div>
+<div align="center"><img src="https://leetcard.jacoblin.cool/Melowetty" height="150" alt="leet code stats"/></div>
