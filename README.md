@@ -10,11 +10,11 @@
 
 ###
 
-🔭 I’m currently working on [Microservices of HSE Perm Helper on Kotlin](https://github.com/HSE-Perm-Helper/) with usage such technologies as Kafka, Docker-Compose, Eureka Server, Spring Cloud Gateway, Postgres, Testcontainers, Mockito, Jacoco, Spring JPA, Spring Validation and OpenFeign<br>
+🔭 I’m currently working on [Microservices of HSE Perm Helper on Kotlin](https://github.com/HSE-Perm-Helper/) with usage such technologies as Spring, Kafka, Docker-Compose, Caddy, Postgres, Testcontainers, Mockito, Jacoco, Spring JPA, Spring Validation and OpenFeign<br>
 ✨ Creating bugs since 2023<br>
 📚 I'm done Java Fintech course by T-bank at 2024<br>
 🏫 I'm currently studying at HSE Perm University at 3 course<br>
-🎯 Goals: created microservices for [telegram bot](https://t.me/hse_perm_helper_bot), which much improved process of personal schedule checking and it used by more than 1100 HSE Perm students everyday<br>
+🎯 Goals: created microservices for [telegram bot](https://t.me/hse_perm_helper_bot), which much improved process of personal schedule checking and it used by more than 1200 HSE Perm students everyday<br>
 
 📫 How to reach me **melowetty@mail.ru**
 
