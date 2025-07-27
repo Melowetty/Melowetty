@@ -10,10 +10,10 @@
 
 ###
 
-🔭 I’m currently working on [Microservices of HSE Perm Helper on Kotlin](https://github.com/HSE-Perm-Helper/) with usage such technologies as Spring, Kafka, Docker-Compose, Caddy, Postgres, Testcontainers, Mockito, Jacoco, Spring JPA, Spring Validation and OpenFeign<br>
+🔭 I’m currently working at Yandex.Cloud in Cloud Registry service from May 2025 and developing proxy service at free timie.
 ✨ Creating bugs since 2023<br>
 📚 I'm done Java Fintech course by T-bank at 2024<br>
-🏫 I'm currently studying at HSE Perm University at 3 course<br>
+🏫 I'm currently studying at HSE Perm University at 4 course in program Software Engineer<br>
 🎯 Goals: Improve knowledges about microservice architecture, system design and fault tolerance of systems<br>
 
 📫 How to reach me **melowetty@mail.ru**
