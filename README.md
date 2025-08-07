@@ -1,63 +1,75 @@
-<h1 align="left">Hey 👋 What's up?</h1>
-
-###
-
-<p align="left">My name is Denis and I'm a Java/Kotlin Developer from Perm, Russia</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-🔭 I’m currently working at Yandex.Cloud in Cloud Registry service from May 2025 and developing proxy service at free timie.
-✨ Creating bugs since 2023<br>
-📚 I'm done Java Fintech course by T-bank at 2024<br>
-🏫 I'm currently studying at HSE Perm University at 4 course in program Software Engineer<br>
-🎯 Goals: Improve knowledges about microservice architecture, system design and fault tolerance of systems<br>
-
-📫 How to reach me **melowetty@mail.ru**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melowetty&label=Profile%20views&color=0e75b6&style=flat" alt="melowetty" /> </p>
-
-<p align="left"></p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
-
-<h2 align="left">GitHub Stats</h2>
+<h1 align="center">👋 Hi, I'm Denis Malinin</h1>
+<h3 align="center">Backend Developer (Java/Kotlin)</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=melowetty&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melowetty&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="mailto:melowetty@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/melowetty">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://leetcode.com/Melowetty/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
 </div>
 
 ###
 
-<h2 align="left">LeetCode Stats</h2>
+<h2>🚀 About Me</h2>
 
-###
-<div align="center"><img src="https://leetcard.jacoblin.cool/Melowetty" height="150" alt="leet code stats"/></div>
+- 💻 Backend developer specializing in Java/Kotlin
+- 🔭 Currently working on **cloud-native solutions** at Yandex.Cloud (Artifact Registry team)
+- 🌱 Currently deepening my knowledge in:
+  - Microservice architecture patterns
+  - Performance optimization
+  - Cloud-native development
+- 🔭 Working on personal projects to improve my skills
+- 📚 Regularly studying system design and clean code principles
+- 🎓 4th year Computer Science student at HSE Perm
+- 🤝 Open to collaboration on interesting projects
+- 📫 How to reach me: **melowetty@mail.ru**
+- ⚡ Fun fact: **I automate everything I can**
+
+<h2>🛠 Tech Stack</h2>
+
+### Core Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend Technologies
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![YDB](https://img.shields.io/badge/Yandex_DB-FF0000?style=for-the-badge&logo=yandex&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Docker-Swarm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+<h2>🔥 Highlights</h2>
+
+- 🏆 2nd Place at Ujin OS Smart Buildings Hackathon (2024)
+- 🚀 Developed systems serving **2000+ active users**
+- 📊 Optimized gRPC endpoints reducing system load by **30%**
+- 🎓 Teaching assistant at HSE University (Algorithms course)
+
+<h2>📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=melowetty&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melowetty&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<h2>💻 LeetCode Progress</h2>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Melowetty?theme=dark&font=Roboto" alt="LeetCode Stats"/>
+</div>
