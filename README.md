@@ -13,6 +13,9 @@
   <a href="https://leetcode.com/Melowetty/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
+  <a href="https://t.me/hse_perm_helper_bot" target="_blank">
+    <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV">
+  </a>
 </div>
 
 ###
@@ -51,7 +54,7 @@
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Docker-Swarm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Swarm](https://img.shields.io/badge/Docker-Swarm-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 <h2>🔥 Highlights</h2>
