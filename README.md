@@ -13,7 +13,7 @@
   <a href="https://leetcode.com/Melowetty/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
   </a>
-  <a href="https://t.me/hse_perm_helper_bot" target="_blank">
+  <a href="https://drive.google.com/file/d/14dHR8W6eHLoDp9PZPQqXOu7kMA8AH2ps/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV">
   </a>
 </div>
