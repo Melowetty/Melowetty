@@ -61,8 +61,6 @@
 
 - 🏆 2nd Place at Ujin OS Smart Buildings Hackathon (2024)
 - 🚀 Developed systems serving **2000+ active users**
-- 📊 Optimized gRPC endpoints reducing system load by **30%**
-- 🎓 Teaching assistant at HSE University (Algorithms course)
 
 <h2>📊 GitHub Stats</h2>
 
