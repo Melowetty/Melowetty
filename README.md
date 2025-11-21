@@ -23,17 +23,17 @@
 <h2>🚀 About Me</h2>
 
 - 💻 Backend developer specializing in Java/Kotlin
-- 🔭 Currently working on **cloud-native solutions** at Yandex.Cloud (Artifact Registry team)
+- 🔭 Currently working on **fintech services** at T-Bank (Debit card import substituion team)
 - 🌱 Currently deepening my knowledge in:
   - Microservice architecture patterns
-  - Performance optimization
-  - Cloud-native development
+  - Distributed systems
+  - Fault-tolerant architecture
 - 🔭 Working on personal projects to improve my skills
 - 📚 Regularly studying system design and clean code principles
 - 🎓 4th year Computer Science student at HSE Perm
 - 🤝 Open to collaboration on interesting projects
 - 📫 How to reach me: **melowetty@mail.ru**
-- ⚡ Fun fact: **I automate everything I can**
+- ⚡ Fun fact: **I cooking delicious mashed potatoes))**
 
 <h2>🛠 Tech Stack</h2>
 
@@ -60,6 +60,8 @@
 <h2>🔥 Highlights</h2>
 
 - 🏆 2nd Place at Ujin OS Smart Buildings Hackathon (2024)
+- 🏆 1/4 ICPC Ural Contest (2025)
+- 🏆 Absolute winner at student conference "University&Business" at HSE Perm
 - 🚀 Developed systems serving **2000+ active users**
 
 <h2>📊 GitHub Stats</h2>
