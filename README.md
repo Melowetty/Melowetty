@@ -25,9 +25,9 @@
 - 💻 Backend developer specializing in Java/Kotlin
 - 🔭 Currently working on **fintech services** at T-Bank (Debit card import substituion team)
 - 🌱 Currently deepening my knowledge in:
-  - Microservice architecture patterns
   - Distributed systems
   - Fault-tolerant architecture
+  - K8s
 - 🔭 Working on personal projects to improve my skills
 - 📚 Regularly studying system design and clean code principles
 - 🎓 4th year Computer Science student at HSE Perm
