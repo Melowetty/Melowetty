@@ -62,7 +62,7 @@
 - 🏆 2nd Place at Ujin OS Smart Buildings Hackathon (2024)
 - 🏆 1/4 ICPC Ural Contest (2025)
 - 🏆 Absolute winner at student conference "University&Business" at HSE Perm
-- 🚀 Developed systems serving **40000+ active users**
+- 🚀 Developed systems serving **50000+ active users**
 
 <h2>📊 GitHub Stats</h2>
 
