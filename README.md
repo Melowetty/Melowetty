@@ -33,7 +33,6 @@
 - 🎓 4th year Computer Science student at HSE Perm
 - 🤝 Open to collaboration on interesting projects
 - 📫 How to reach me: **melowetty@mail.ru**
-- ⚡ Fun fact: **I cooking delicious mashed potatoes))**
 
 <h2>🛠 Tech Stack</h2>
 
