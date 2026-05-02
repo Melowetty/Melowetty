@@ -23,7 +23,7 @@
 <h2>🚀 About Me</h2>
 
 - 💻 Backend developer specializing in Java/Kotlin
-- 🔭 Currently working on **fintech services** at T-Bank (Debit card import substituion team)
+- 🔭 Currently working on **payment gateway** at T-Bank (STARS team)
 - 🌱 Currently deepening my knowledge in:
   - Distributed systems
   - Fault-tolerant architecture
