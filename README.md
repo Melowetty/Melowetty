@@ -23,10 +23,10 @@
 <h2>🚀 About Me</h2>
 
 - 💻 Backend developer specializing in Java/Kotlin
-- 🔭 Currently working on **payment gateway** at T-Bank (STARS team)
+- 🔭 Currently working on **sbp me2me payments** at T-Bank
 - 🌱 Currently deepening my knowledge in:
   - Distributed systems
-  - Fault-tolerant architecture
+  - Observability
   - K8s
 - 🔭 Working on personal projects to improve my skills
 - 📚 Regularly studying system design and clean code principles
